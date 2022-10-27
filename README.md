@@ -2,7 +2,7 @@
 ## About The Project
 
 
-*This POS is personalized for a coffee shop; however any business with inventory also suitable for this system. Developed using PHP for local used only.*
+*This POS is personalized for a coffee shop; however any business with inventory also suitable for this system. Developed using PHP for web-server purpose.*
 
 Project background:
 * Cheapest comerliazed POS system out there is $10 per month; $120 annually solely for record-keeping.
