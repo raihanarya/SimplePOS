@@ -2,11 +2,11 @@
 ## About The Project
 
 
-*This POS is personalized for a coffee shop; however any business with inventory also suitable for this system. Developed using PHP for local used only*
+*This POS is personalized for a coffee shop; however any business with inventory also suitable for this system. Developed using PHP for local used only.*
 
 Project background:
 * Cheapest comerliazed POS system out there is $10 per month; $120 annually solely for record-keeping.
-* Small business shouldn't be making L/P report MANUALLY.
+* Small business shouldn't be making P/L report MANUALLY.
 * #supportlocalbusiness :smile:
 
 Of course, this project is FAR from full-feature. So I'll be adding more in the near future. Feel free to contribute and creating a pull request or opening an issue.
